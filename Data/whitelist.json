@@ -1,0 +1,20 @@
+{
+  "entries": [
+    "Assets/ParadoxSecuritySuite/Demo/Whitelist/",
+    "ObfuscatorSettings.asset",
+    "EncryptionManager.cs",
+    "IntegrityHashManager.cs",
+    "LogManager.cs",
+    "ObfuscationManager.cs",
+    "ObfuscatorSettings.cs",
+    "ParadoxSecuritySuiteWindow.cs",
+    "AntiCheatBehaviour.cs",
+    "AntiCheatManager.cs",
+    "AESDecryptor.cs",
+    "ADecryptionHelper.cs",
+    "WhitelistManager.cs",
+    "integrity_hash.json",
+    "whitelist.json",
+    "obfuscation_log.txt"
+  ]
+}
